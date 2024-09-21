@@ -28,3 +28,4 @@
 - Lavnish Pandey[https://www.linkedin.com/in/lavnish-pandey-b5b577162/]
 - Vanshika Dixit[https://www.linkedin.com/in/vanshika-dixit-8b53852b9]
 - Dhruv[https://www.linkedin.com/in/dhruv-%E2%80%8E-64446220b]
+- Nirdesh Jain [https://www.linkedin.com/in/nirdeshhjain/]
