@@ -21,6 +21,7 @@
 - Tarun[https://www.linkedin.com/in/tarun-nokwal-b4a858325/]
 - Dhruv Sharma[https://www.linkedin.com/in/dhruv-sharma-2202b332a]
 - yashvi sahu[https://www.linkedin.com/in/yashvi-sahu-910190326/]
+- Monishka Bajaj[https://www.linkedin.com/in/monishka-bajaj-21296432a/]
 - Utsav Ratan[https://www.linkedin.com/in/misterutsav/]
 - Pallavi P Baiju[https://www.linkedin.com/in/pallavi-p-baiju-2b795631b/]
 - Tushar Goswami[https://www.linkedin.com/in/tushar-goswami-9b5165276]
