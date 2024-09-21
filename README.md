@@ -30,6 +30,7 @@ Welcome to the **Pathshala DSA** introductory session! Below is a list of studen
 - [Dhruv](https://www.linkedin.com/in/dhruv-%E2%80%8E-64446220b/)
 - [Nirdesh Jain](https://www.linkedin.com/in/nirdeshhjain/)
 - [Rishika Pasricha](https://www.linkedin.com/in/rishika-pasricha-6440112a9/)
+- [Bhawna Sharma](www.linkedin.com/in/bhawna-sharma-172350329)
 
 ---
 
