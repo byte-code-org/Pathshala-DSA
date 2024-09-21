@@ -6,6 +6,7 @@ Welcome to the **Pathshala DSA** introductory session! Below is a list of studen
 
 - [Caleb Chandrasekar](https://www.linkedin.com/in/caleb-chandrasekar/)
 - [Dipesh Raghav](https://www.linkedin.com/in/dipesh-raghav-1969a5322)
+- [Nirdesh Jain](https://www.linkedin.com/in/nirdeshhjain/)
 - [Yashpal](https://www.linkedin.com/in/yash-pal-3295501b7)
 - [Prince Yadav](https://www.linkedin.com/in/prince-yadav-2a4279322/)
 - [Priyanshu Dubey](https://www.linkedin.com/in/priyanshu-dubey-962b34321)
@@ -28,7 +29,6 @@ Welcome to the **Pathshala DSA** introductory session! Below is a list of studen
 - [Lavnish Pandey](https://www.linkedin.com/in/lavnish-pandey-b5b577162/)
 - [Vanshika Dixit](https://www.linkedin.com/in/vanshika-dixit-8b53852b9/)
 - [Dhruv](https://www.linkedin.com/in/dhruv-%E2%80%8E-64446220b/)
-- [Nirdesh Jain](https://www.linkedin.com/in/nirdeshhjain/)
 - [Rishika Pasricha](https://www.linkedin.com/in/rishika-pasricha-6440112a9/)
 - [Bhawna Sharma](www.linkedin.com/in/bhawna-sharma-172350329)
 - [Ridhima Singh](https://www.linkedin.com/in/ridhima-singh-342812325)
