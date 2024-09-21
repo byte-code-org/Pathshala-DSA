@@ -30,8 +30,10 @@ Welcome to the **Pathshala DSA** introductory session! Below is a list of studen
 - [Vanshika Dixit](https://www.linkedin.com/in/vanshika-dixit-8b53852b9/)
 - [Dhruv](https://www.linkedin.com/in/dhruv-%E2%80%8E-64446220b/)
 - [Rishika Pasricha](https://www.linkedin.com/in/rishika-pasricha-6440112a9/)
+- [Yashraj Pahuja](https://www.linkedin.com/in/yashraj-pahuja-28a34b325)
 - [Bhawna Sharma](www.linkedin.com/in/bhawna-sharma-172350329)
 - [Ridhima Singh](https://www.linkedin.com/in/ridhima-singh-342812325)
+
 ---
 
 ### Key Achievements:
