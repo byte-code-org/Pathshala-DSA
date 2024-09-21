@@ -23,3 +23,4 @@
 - Tushar Goswami[https://www.linkedin.com/in/tushar-goswami-9b5165276]
 - Lavnish Pandey[https://www.linkedin.com/in/lavnish-pandey-b5b577162/]
 - Vanshika Dixit[https://www.linkedin.com/in/vanshika-dixit-8b53852b9]
+- Dhruv[https://www.linkedin.com/in/dhruv-%E2%80%8E-64446220b]
