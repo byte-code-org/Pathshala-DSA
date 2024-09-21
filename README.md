@@ -7,3 +7,4 @@
 - Shivang Garg[https://www.linkedin.com/in/shivang-garg77/]
 - Vikram[www.linkedin.com/in/vikram-yadav-b651bb32a]
 - Dev[www.linkedin.com/in/dev-dagar-0a3b81307]
+- Karamjeet Singh[https://www.linkedin.com/in/karamjeet-singh-60528732a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
