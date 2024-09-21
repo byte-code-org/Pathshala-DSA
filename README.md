@@ -1,3 +1,5 @@
+
+
 # Pathshala DSA - Introduction Session
 
 Welcome to the **Pathshala DSA** introductory session! Below is a list of students who successfully completed their first pull request by adding their LinkedIn profiles. We also had a great intro session on **LeetCode** and **GitHub**.
@@ -28,6 +30,7 @@ Welcome to the **Pathshala DSA** introductory session! Below is a list of studen
 - [Lavnish Pandey](https://www.linkedin.com/in/lavnish-pandey-b5b577162/)
 - [Vanshika Dixit](https://www.linkedin.com/in/vanshika-dixit-8b53852b9/)
 - [Dhruv](https://www.linkedin.com/in/dhruv-%E2%80%8E-64446220b/)
+- [Nirdesh Jain](https://www.linkedin.com/in/nirdeshhjain/)
 
 ---
 
