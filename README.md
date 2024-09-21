@@ -17,5 +17,7 @@
 - Tarun[https://www.linkedin.com/in/tarun-nokwal-b4a858325/]
 - Dhruv Sharma [https://www.linkedin.com/in/dhruv-sharma-2202b332a]
 - yashvi sahu[https://www.linkedin.com/in/yashvi-sahu-910190326/]
-- Pallavi P Baiju[https://www.linkedin.com/in/pallavi-p-baiju-2b795631b/]
+- Pallavi P Baiju (https://www.linkedin.com/in/pallavi-p-baiju-2b795631b/)
 - Tushar Goswami[https://www.linkedin.com/in/tushar-goswami-9b5165276]
+- Lavnish Pandey [https://www.linkedin.com/in/lavnish-pandey-b5b577162/]
+
