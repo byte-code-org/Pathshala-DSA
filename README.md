@@ -2,7 +2,6 @@
 
 
 
-
 - Caleb Chandrasekar[https://www.linkedin.com/in/caleb-chandrasekar/]
 - Prince Yadav  [ https://www.linkedin.com/in/prince-yadav-2a4279322/ ] 
 - Dipesh Raghav[https://www.linkedin.com/in/dipesh-raghav-1969a5322]
@@ -17,3 +16,4 @@
 - Tarun[https://www.linkedin.com/in/tarun-nokwal-b4a858325/]
 - Dhruv Sharma [https://www.linkedin.com/in/dhruv-sharma-2202b332a]
 - yashvi sahu[https://www.linkedin.com/in/yashvi-sahu-910190326/]
+- Pallavi P Baiju (https://www.linkedin.com/in/pallavi-p-baiju-2b795631b/)
