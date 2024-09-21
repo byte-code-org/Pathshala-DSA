@@ -6,6 +6,7 @@
 - Prince Yadav  [ https://www.linkedin.com/in/prince-yadav-2a4279322/ ] 
 - Dipesh Raghav[https://www.linkedin.com/in/dipesh-raghav-1969a5322]
 - Priyanshu Dubey[www.linkedin.com/in/priyanshu-dubey-962b34321]
+- Raghav Arora[https://www.linkedin.com/in/raghav-arora-1a734b306/]
 - Abhishek Thakur [https://www.linkedin.com/in/abhishek-thakur-141a32325/]
 - Kiruthika[https://www.linkedin.com/in/kiruthika-subramanian-920964298/]
 - Shivang Garg[https://www.linkedin.com/in/shivang-garg77/]
