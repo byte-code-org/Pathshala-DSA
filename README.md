@@ -33,7 +33,7 @@ Welcome to the **Pathshala DSA** introductory session! Below is a list of studen
 - [Yashraj Pahuja](https://www.linkedin.com/in/yashraj-pahuja-28a34b325)
 - [Bhawna Sharma](www.linkedin.com/in/bhawna-sharma-172350329)
 - [Ridhima Singh](https://www.linkedin.com/in/ridhima-singh-342812325)
-
+- [Riya Goyal](https://www.linkedin.com/in/riya-goyal-68842732a/)
 ---
 
 ### Key Achievements:
