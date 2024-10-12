@@ -35,6 +35,7 @@ Welcome to the **Pathshala DSA** introductory session! Below is a list of studen
 - [Ridhima Singh](https://www.linkedin.com/in/ridhima-singh-342812325)
 - [Vaishnavi Pushp](https://www.linkedin.com/in/vaishnavi-pushp-a82670309/)
 - [Harshdeep Singh](https://www.linkedin.com/in/harshdeep-singh-166825320)
+- [Samya Sharma](https://www.linkedin.com/in/samya-sharma-85632b307/)
 
 ---
 
